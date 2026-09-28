@@ -1,0 +1,36 @@
+AI-Powered Visual Data Analytics and Business Intelligence Platform
+Setup on Windows (VS Code terminal)
+===================================================================
+
+Before you start:
+- Install Python 3.11 or 3.12 from python.org (tick "Add Python to PATH")
+- Install VS Code and its Python extension
+- Get a free Gemini API key: https://aistudio.google.com/app/apikey
+
+First time:
+  conda deactivate                          (only if you use Anaconda)
+  python -m venv venv
+  venv\Scripts\activate
+  python -m pip install -r requirements.txt
+  copy .env.example .env
+  -> open .env (Ctrl + P, type .env), set GEMINI_API_KEY=your_key, save (Ctrl + S)
+  python -m streamlit run app.py            (opens http://localhost:8501)
+
+Next time:
+  venv\Scripts\activate
+  python -m streamlit run app.py
+
+Stop the app: Ctrl + C
+
+Checks:
+  python -m pytest -q        (6 passed)
+  python llm.py              (short hello from Gemini)
+
+Common errors:
+- "running scripts is disabled": Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+- "python is not recognized": reinstall with "Add to PATH", or use: py
+- "No module named ...": venv\Scripts\activate, then python -m pip install -r requirements.txt
+- "API key not valid": key must be in .env (not .env.example), saved, and the app restarted
+- best.pt not found: keep best.pt in the same folder as app.py
+
+Never share your .env file or put your API key in code or on GitHub.

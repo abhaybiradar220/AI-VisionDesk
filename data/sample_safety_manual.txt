@@ -1,0 +1,23 @@
+VisionDesk Demo Site - Workplace Safety Manual (sample for testing)
+
+Section 1: Purpose. This manual defines the minimum safety rules for all employees, contractors and visitors on the construction site and in the warehouse. Every supervisor is responsible for enforcing these rules in their area.
+
+Section 2: Head Protection. All workers must wear an approved hardhat (safety helmet) at all times inside the construction zone, including loading bays and scaffolding areas. A worker found without a hardhat must stop work immediately and may not re-enter the zone until the hardhat is worn.
+
+Section 3: High-Visibility Clothing. A high-visibility safety vest is mandatory for anyone working near moving vehicles, forklifts, cranes or heavy machinery. Vests must be clean, fastened and clearly visible from all sides.
+
+Section 4: Eye and Face Protection. Safety goggles must be worn when grinding, cutting, drilling, welding or handling chemicals. Face shields are required in addition to goggles during welding operations.
+
+Section 5: Hand Protection. Cut-resistant gloves must be worn when handling sharp materials, sheet metal or glass. Chemical-resistant gloves are required when handling paints, solvents or cleaning agents.
+
+Section 6: Respiratory Protection. A dust mask or respirator must be worn in dusty areas, during sanding, cement mixing and demolition work, and wherever the safety officer has posted a respiratory hazard sign.
+
+Section 7: Fire Safety. Fire exits and escape routes must remain clear at all times. Fire extinguishers are placed at every floor entrance and must be inspected monthly. Fire drills are held every three months for all staff.
+
+Section 8: First Aid. First aid kits are located at every workstation and at the site office. At least one trained first aider must be present on every shift.
+
+Section 9: Incident Reporting. Any injury, near miss or PPE violation must be reported to the safety officer within 24 hours. Reports must include the date, time, location, people involved and photos where available. CCTV footage related to an incident must be preserved for 30 days.
+
+Section 10: Enforcement and Penalties. A first PPE violation results in a verbal warning and mandatory safety briefing. A second violation within 30 days results in a written warning. Repeated violations may lead to removal from site. Supervisors must record every warning in the compliance log.
+
+Section 11: Inspections and Audits. The safety officer performs a weekly site inspection using the PPE checklist. A monthly compliance report summarising violations, compliance rate and corrective actions is submitted to management. Target compliance rate is 95 percent or higher.

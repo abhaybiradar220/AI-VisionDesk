@@ -1,0 +1,24 @@
+# AI VisionDesk - install with:  pip install -r requirements.txt
+
+# Milestone 1 - Vision
+ultralytics
+opencv-python
+
+# Milestone 2 - Documents + Knowledge base
+pypdf
+python-docx
+sentence-transformers
+chromadb
+
+# Milestone 3 - LLM + Agent
+google-genai
+langgraph
+python-dotenv
+
+# Milestone 4 - Dashboard + Report
+streamlit>=1.40
+pandas
+fpdf2
+
+# Testing
+pytest
